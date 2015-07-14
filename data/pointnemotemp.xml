@@ -1,1 +1,17 @@
 
+<?xml version="1.0"?>
+<!DOCTYPE temperatures SYSTEM "pointnemotemp.dtd">
+<temperatures>
+<variable>Mean TS from clear sky composite (kelvin)</variable>
+<filename>ISCCPMonthly_avg.nc</filename>
+<filepath>/usr/local/fer_dsets/data/</filepath>
+<subset>93 points (TIME)</subset> 
+<longitude>123.8W(-123.8)</longitude>   
+<case date="16-JAN-1994" temperature="278.9"/>
+<case date="16-FEB-1994" temperature="280"/>
+<case date="16-MAR-1994" temperature="278.9"/>
+<case date="16-APR-1994" temperature="278.9"/>
+<case date="16-MAY-1994" temperature="277.8"/>
+<case date="16-JUN-1994" temperature="276.1"/>
+<case date="16-JUL-1994" temperature="276.1"/>
+</temperatures> 
