@@ -1,4 +1,4 @@
-SQLite
+> SQLite
 
 
 You will be constructing a `coffee.db` containing tables for `coffees`, `salespeople`, `customers`, `orders`, and `order_items`. Once constructed, you will query this database using R.
